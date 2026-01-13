@@ -7,10 +7,10 @@ This project involves an end-to-end data analysis workflow, transforming a raw d
 ![Social Media Dashboard](Screenshots/Dashboard.png)
 
 ## 📂 Repository Structure
-- **01_Dataset/**: Contains the original `social_media_engagement.csv`.
-- **02_Excel_Analysis/**: The cleaned Excel workbook featuring data transformation and feature engineering.
-- **03_PowerBI_Dashboard/**: The `.pbix` file containing the data model and interactive visuals.
-- **04_Insights_Recommendations/**: Executive summary and strategic advice in PDF format.
+- **Dataset/**: Contains the original `social_media_engagement.csv`.
+- **Excel_Analysis/**: The cleaned Excel workbook featuring data transformation and feature engineering.
+- **PowerBI_Dashboard/**: The `.pbix` file containing the data model and interactive visuals.
+- **Insights_Recommendations/**: Executive summary and strategic advice in PDF format.
 - **Screenshots/**: High-resolution image of the final dashboard (`Dashboard.png`).
 
 ## 🛠️ Data Processing Workflow
