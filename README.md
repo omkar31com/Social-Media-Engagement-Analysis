@@ -5,7 +5,6 @@ This project involves an end-to-end data analysis workflow, transforming a raw d
 
 ## 📊 Dashboard Preview
 ![Social Media Dashboard](Screenshots/Dashboard.png)
-*(Note: Ensure your PNG is inside a folder named 'Screenshots' or update the path above)*
 
 ## 📂 Repository Structure
 - **01_Dataset/**: Contains the original `social_media_engagement.csv`.
